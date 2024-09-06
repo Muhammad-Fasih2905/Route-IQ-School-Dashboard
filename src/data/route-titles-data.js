@@ -1,0 +1,16 @@
+export const routeTitles = {
+    '/dashboard/home': 'Route IQ - Dashboard',
+    '/dashboard/manage': 'Route IQ - Manage',
+    '/dashboard/route-schedules': 'Route IQ - Route Schedules',
+    '/dashboard/communication': 'Route IQ - Communication',
+    '/dashboard/announcements': 'Route IQ - Announcements',
+    '/dashboard/trip-planner': 'Route IQ - Trip Planner',
+    '/dashboard/create-announcement': 'Route IQ - Create Announcement',
+    '/dashboard/profile': 'Profile - MyApp',
+    '/dashboard/feedback-and-support': 'Route IQ - Feedback and Support',
+    '/dashboard/settings': 'Route IQ - Settings',
+    '/account/sign-in': 'Route IQ - Sign In',
+    '/account/sign-up': 'Route IQ - Sign Up',
+    '/account/forgot-password': 'Route IQ - Forgot Password',
+    '*': 'Route Iq - Not Found',
+  };
